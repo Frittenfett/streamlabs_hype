@@ -1,0 +1,17 @@
+﻿{
+    "output_file": "settings.json",
+    "command": {
+        "type": "textbox",
+        "value": "!hype",
+        "label": "Hype command",
+        "tooltip": "Command for hype",
+        "group": "Commands"
+    },
+    "emotes": {
+        "type": "textbox",
+        "value": "fritteHype, PikaWan, MarioPls, WowPls, CuteDog, RareParrot",
+        "label": "All emotes to hype",
+        "tooltip": "All emotes list",
+        "group": "Commands"
+    }
+}
